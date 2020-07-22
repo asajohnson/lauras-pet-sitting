@@ -1,10 +1,14 @@
 # Laura's Pet Sitting
+Does your pet have a short fuse just give me the news 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Reach out to me at lauraspetsitting@outlook.com
 
+My name is Laura. I have two cats of my own and I love all animals, and your pets will be in good hands. I pet sit for the Issaquah area
+
+## Pet Sitting
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for.
 
 ```markdown
 Syntax highlighted code block
